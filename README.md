@@ -16,13 +16,13 @@ Foram utilizados os relacionamentos:
 
 As interações também receberam propriedades, como quantidade de reproduções e data.
 
-![Grafo completo](imagens/grafo-completo.png)
+![Grafo completo](Imagens/grafo-completo.png)
 
 ## Recomendação
 
 João e Ana curtiram **Blinding Lights**. Como Ana também curtiu **Levitating**, essa música pode ser recomendada para João.
 
-![Recomendação para João](imagens/recomendacao-joao.png)
+![Recomendação para João](Imagens/recomendacao-joao.png)
 
 ## Como executar
 
